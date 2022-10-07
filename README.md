@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Modern C++ and Machine Learning**
 
-- 👯 I’m looking to collaborate on **interesting projects**
+- 👯 I’m looking to collaborate on **game engines and simulators**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
