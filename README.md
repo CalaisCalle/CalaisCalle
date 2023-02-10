@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Max Callé</h1>
-<h3 align="center">A Graduate Software Engineer Working at AudioTelligence</h3>
+<h3 align="center">A Graduate Software Engineer Working currently looking for work</h3>
 
 - 🔭 I’m currently working on **Learning C++ in Depth**
 
