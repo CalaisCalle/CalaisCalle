@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Max Callé</h1>
-<h3 align="center">A Graduate Software Engineer Working currently looking for work</h3>
+<h3 align="center">A Software Engineer Working currently working for Navtech Radar.</h3>
 
 - 🔭 I’m currently working on **Learning C++ in Depth**
 
 - 🌱 I’m currently learning **Modern C++ and Machine Learning**
-
-- 👯 I’m looking to collaborate on **game engines and simulators**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
