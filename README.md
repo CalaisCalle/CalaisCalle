@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm Max Callé</h1>
 <h3 align="center">A Software Engineer Working currently working for Navtech Radar.</h3>
-<h3 align="center">Previously a two tie graduate from the University of Sheffield<\h3>
-<h3 align="center">MSc Materials Science & Engineering | BSc Physics with Year in Industry <\h3>
+<h3 align="center">Previously a two tie graduate from the University of Sheffield</h3>
+<h3 align="center">MSc Materials Science & Engineering | BSc Physics with Year in Industry </\h3>
 
-- 🔭 I’m currently working on **Learning C++ in Depth**
+- 🔭 I’m currently working on **Radar Systems**
 
-- 🌱 I’m currently learning **Modern C++, C#, and Rust**
+- 🌱 Currently learning:
+  - Modern C++
+  - C#
+  - Rust
 
-- 
+- 👀 Interested in
+ - Computer Graphics
+ - Machine Learning
+ - Physics Simulations 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
