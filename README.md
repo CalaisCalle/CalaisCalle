@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Max Callé</h1>
 <h3 align="center">A Software Engineer Working currently working for Navtech Radar.</h3>
-<h3 align="center">Previously a two tie graduate from the University of Sheffield</h3>
+<h3 align="center">I work with radar systems, ingesting and displaying data over TCP/IP and write in C#/.NET.</h3>
+<h3 align="center">At home, I mostly work to further my own understanding of Computer Science and Programming.</h3>
+<h3 align"center">I also hold two degrees from the University of Sheffield</h3>
 <h3 align="center">MSc Materials Science & Engineering | BSc Physics with Year in Industry </h3>
 
 - 🔭 I’m currently working on **Radar Systems**
@@ -11,9 +13,9 @@
   - Rust
 
 - 👀 Interested in
- - Computer Graphics
- - Machine Learning
- - Physics Simulations 
+   - Computer Graphics
+   - Machine Learning
+   - Physics Simulations
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
